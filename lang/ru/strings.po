@@ -30,7 +30,7 @@ msgstr "охотник"
 
 #: ../../script/outside.js:28 ../../script/localization.js:22
 msgid "trapper"
-msgstr "ловушечник"
+msgstr "ловчий"
 
 #: ../../script/outside.js:36 ../../script/localization.js:23
 msgid "tanner"
@@ -42,15 +42,15 @@ msgstr "мясник"
 
 #: ../../script/outside.js:53 ../../script/localization.js:28
 msgid "iron miner"
-msgstr "добыватель железа"
+msgstr "рудокоп"
 
 #: ../../script/outside.js:61 ../../script/localization.js:30
 msgid "coal miner"
-msgstr "добыватель угля"
+msgstr "шахтер"
 
 #: ../../script/outside.js:69 ../../script/localization.js:32
 msgid "sulphur miner"
-msgstr "добыватель серы"
+msgstr "другой шахтер"
 
 #: ../../script/outside.js:77 ../../script/localization.js:35
 msgid "steelworker"
@@ -102,12 +102,12 @@ msgstr "замёрзшая семья заняла одну из хижин."
 
 #: ../../script/outside.js:187
 msgid "a small group arrives, all dust and bones."
-msgstr "прибыла небольшая группа, покрытая пылью и костями."
+msgstr "прибыла небольшая группа, покрытая пылью и прахом."
 
 #: ../../script/outside.js:189
 #, fuzzy
 msgid "a convoy lurches in, equal parts worry and hope."
-msgstr "пришёл обоз, поровну опасений и надежд"
+msgstr "пришёл обоз, полный опасений и надежд"
 
 #: ../../script/outside.js:191
 msgid "the town's booming. word does get around."
@@ -670,7 +670,7 @@ msgstr ""
 
 #: ../../script/room.js:578
 msgid "freezing"
-msgstr "морозит"
+msgstr "морозно"
 
 #: ../../script/room.js:579
 msgid "cold"
@@ -690,7 +690,7 @@ msgstr "жарко"
 
 #: ../../script/room.js:594
 msgid "dead"
-msgstr "смерть"
+msgstr "давно мертв"
 
 #: ../../script/room.js:595
 msgid "smoldering"
